@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(2, 2, 53)!important;
+    color: white!important;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.emoji{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 5%;
+}
+.emoji h1{
+    font-size: 3rem;
+}
+.emoji h4{
+    margin: 40px;
+    font-size: 2rem;
+}
+
+.emoji div h1{
+    font-size: 8rem;
+    filter: grayscale(80%);
+    
+}
+.emoji div h1:hover{
+    filter: grayscale(0%);
+    transition-duration: 0.5s;
+}
