@@ -1,2 +1,3 @@
-# Fun-Games-using-JS
-This Repository is made for Fun purpose.Does not meant to hurt your sentiments. Regards. 
+#  Games are the best way to learn.Here are some cool and easy games for learning purpose only.
+
+1. Emoji Selector 😃
